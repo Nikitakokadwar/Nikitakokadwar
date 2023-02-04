@@ -5,7 +5,11 @@
 
 - 🔭 I’m currently working on **my coading skills**
 
-- 🌱 I’m currently learning **CSS,HTML**
+- 🌱 I’m currently learning 
+- Python
+- HTML
+- CSS
+
 
 - 📫 How to reach me **nikita.22020268@viit.ac.in**
 
