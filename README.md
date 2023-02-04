@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikita Kokadwar</h1>
-<h3 align="center">A passionate Electronics and Telecommunication enginerring student</h3>
+<h3 align="center"> Electronics and Telecommunication enginering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitakokadwar&label=Profile%20views&color=0e75b6&style=flat" alt="nikitakokadwar" /> </p>
 
