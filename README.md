@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Nikita Kokadwar</h1>
-<h3 align="center"> Electronics and Telecommunication enginering student</h3>
+<h3 align="center"> Electronics and Telecommunication enginerring student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitakokadwar&label=Profile%20views&color=0e75b6&style=flat" alt="nikitakokadwar" /> </p>
+
 
 - 🔭 I’m currently working on **my coading skills**
 
 - 🌱 I’m currently learning 
-- Python
-- HTML
-- CSS
-
+      
+      
+-   HTML
+-   CSS
 
 - 📫 How to reach me **nikita.22020268@viit.ac.in**
 
@@ -17,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nikita kokadwar" target="blank"><img align="center" src="https://www.linkedin.com/in/kokadwar-nikita-09571821a/" alt="nikita kokadwar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nikita kokadwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita kokadwar" height="30" width="40" /></a>
 <a href="https://instagram.com/i_nikita2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_nikita2002" height="30" width="40" /></a>
 </p>
 
