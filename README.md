@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nikita.22020268@viit.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TudpYGPs2Kr5Bd8Gq-PlP8qMID1xYKaU/view?usp=share_link](https://drive.google.com/file/d/1TudpYGPs2Kr5Bd8Gq-PlP8qMID1xYKaU/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ElC8MPrKHzD1IsxbAMnY26xpImP0eM40/view?usp=share_link](https://drive.google.com/file/d/1TudpYGPs2Kr5Bd8Gq-PlP8qMID1xYKaU/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
