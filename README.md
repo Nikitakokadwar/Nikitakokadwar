@@ -11,6 +11,7 @@
       
 -   HTML
 -   CSS
+-   JAVASCRIPT
 
 - 📫 How to reach me **nikita.22020268@viit.ac.in**
 
